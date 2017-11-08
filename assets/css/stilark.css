@@ -40,7 +40,7 @@ h1 {
 	margin: 0 auto;
 	padding: 20px 20px;
 	width: 100%;
-	background-color: #666666;
+	background-color: #262626;
 	
 	padding: 100px;
 	grid-area: header;
@@ -50,7 +50,7 @@ h1 {
 
 header#navbar {
 	grid-area: nav;
-	background-color: #666666;
+	background-color: #262626;
 	color: white;
 	text-align: center;
 	overflow: hidden;
@@ -82,7 +82,7 @@ footer {
 
 }
 
-
+/* Sticky navbar */
 .content {
   padding: 16px;
 }
@@ -102,6 +102,8 @@ footer {
 	float: right;
 	size: 50%;
 }
+
+/* Sticky navbar */
 
 	nav {
 		
@@ -156,7 +158,7 @@ article {
 			padding-right: 15px;
 		}
 		article a {
-			background-color: #666666;
+			background-color: #262626;
 			color: white;
 			padding: 10px 20px;
 			float: right;
@@ -169,7 +171,7 @@ article {
 
 
 p a {
-	background-color: #666666;
+	background-color: #262626;
 	color: white;
 	padding: 10px 20px;
 	float: left;
@@ -180,78 +182,15 @@ p a {
 
 
 
-#wamp {
-	
-	margin-right: 790px;
-	padding: 15px;
-}
-
-#wamp2 {
-	
-	margin-right: 1090px;
-	padding: 15px;
-}
-
-#chrome {
-	
-	margin-right: 630px;
-	padding: 15px;
-}
-
-#tema {
-	
-	margin-right: 940px;
-	padding: 15px;
-}
-
-#wamptext {
-	padding: 15px;
-}
-
-#database {
-	margin-right: 80px;
-	padding: 15px;
-}
-
-#tema11 {
-	margin-right: 160px;
-	padding: 15px;
-}
-
-#tema22 {
-
-	padding: 15px;
-}
-
-#plugins {
-	margin-right: 260px;
-	padding: 15px;
-}
-
-#widget {
-	margin-right: 830px;
-	padding: 15px;
-}
-
-#page {
-	margin-right: 570px;
-	padding: 15px;
-}
-
-#post {
-	margin-right: 700px;
-	padding: 15px;
-}
-
 
 
 /* Footer */
 footer {
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
 	width: 100%;
 	height: 100%;
-	background-color: #666666;
+	background-color: #262626;
 }
 
 /* responsive */
