@@ -41,7 +41,7 @@ h1 {
 	margin: 0 auto;
 	padding: 20px 20px;
 	width: 100%;
-	background-color: #262626;
+	background-color: #800000;
 	
 	padding: 100px;
 	grid-area: header;
@@ -51,7 +51,7 @@ h1 {
 
 header#navbar {
 	grid-area: nav;
-	background-color: #262626;
+	background-color: #800000;
 	color: white;
 	text-align: center;
 	overflow: hidden;
@@ -70,7 +70,7 @@ main {
 
 footer {
 	grid-area: footer;
-	background-color: #262626;
+	background-color: #800000;
 	color: white;
 }
 
@@ -111,11 +111,11 @@ footer {
 		
 		float: left;
 		display: block;
-		background-color: #262626;
+		background-color: #800000;
 	}
 		nav ul {
 			list-style-type: none;
-			background-color: #262626;
+			background-color: #800000;
 		}
 			nav ul li {
 				display: inline-block;
@@ -125,7 +125,7 @@ footer {
 					display: block;
 					color: white;
 					font-size: 20px;
-					background-color: #262626;
+					background-color: #800000;
 					
 					text-decoration: none;
 					padding: 20px 20px;
@@ -166,7 +166,7 @@ article {
 			background-color: white;
 		}
 		article a {
-			background-color: #262626;
+			background-color: #800000;
 			color: white;
 			padding: 10px 20px;
 			float: right;
@@ -180,7 +180,7 @@ article {
 
 
 p a {
-	background-color: #262626;
+	background-color: #800000;
 	color: white;
 	padding: 10px 20px;
 	float: left;
@@ -199,7 +199,7 @@ footer {
 	padding: 10px;
 	width: 100%;
 	height: 100%;
-	background-color: #262626;
+	background-color: #800000;
 }
 
 /* responsive */
